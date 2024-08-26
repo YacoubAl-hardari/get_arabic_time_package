@@ -99,7 +99,7 @@ Here is an example of a `composer.json` file that includes this package as a dep
 ```json
 {
     "require": {
-        "getarabictimepackage/arabic-time": "^1.0"
+        "getarabictimepackage/arabic-time": "^1.0.1"
     }
 }
 ```

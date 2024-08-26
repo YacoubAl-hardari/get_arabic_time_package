@@ -3,6 +3,7 @@
     "description": "A Laravel package to convert time to Arabic time periods.",
     "type": "library",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Yacoub Al-Haidari",
@@ -27,6 +28,6 @@
             ]
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }

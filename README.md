@@ -52,6 +52,7 @@ echo ArabicTime::format($time, 'H:i'); // Displays time in Arabic with a custom 
 If you're using Laravel, you can utilize the provided Blade directives for easier integration:
 
 1. Register the service provider in `config/app.php` (if not auto-discovered):
+2. Register the service provider in Laravel 11 **bootstrap/providers.php**
 
     ```php
     'providers' => [
@@ -90,20 +91,3 @@ Contributions are welcome! Please submit a pull request or open an issue to disc
 
 This package is open-sourced software licensed under the [MIT license](LICENSE).
 
----
-
-### Example Composer.json
-
-Here is an example of a `composer.json` file that includes this package as a dependency:
-
-```json
-{
-    "require": {
-        "getarabictimepackage/arabic-time": "^1.0.1"
-    }
-}
-```
-
----
-
-This README now accurately reflects the features of your package without referencing the `vendor:publish` command.

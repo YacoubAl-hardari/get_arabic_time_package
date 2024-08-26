@@ -1,9 +1,22 @@
 {
     "name": "getarabictimepackage/arabic-time",
     "description": "A Laravel package to convert time to Arabic time periods.",
+    "keywords": [
+    "arabic",
+    "time",
+    "date",
+    "laravel",
+    "package",
+    "php",
+    "arabic time",
+    "localization",
+    "i18n",
+    "datetime"
+]
+,
     "type": "library",
     "license": "MIT",
-    "version": "1.0.3",
+"version": "1.0.3",
     "authors": [
         {
             "name": "Yacoub Al-Haidari",
